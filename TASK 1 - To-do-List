@@ -75,6 +75,7 @@ edit_btn = Button(root, text='Edit Item', bg='Azure', width=10, font=('Helvetica
                  command=lambda: edit_item(entry, tasks))
 edit_btn.pack(side=LEFT, padx=5)
 
+
 # Finalizing the window
 root.mainloop()
 
