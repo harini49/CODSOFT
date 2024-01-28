@@ -3,6 +3,7 @@ import tkinter as tk
 # Create app window
 win = tk.Tk()
 
+
 # Specify screen size of the Application window
 win.geometry("312x324")
 
